@@ -2,7 +2,7 @@ Hello there! I'm Abass, a passionate and skilled front-end engineer with a knack
 
 💻 Technical Proficiency
 
-HTML & CSS: Building the foundation for seamless user experiences with clean and structured code.
+HTML, CSS & JavaScript: Building the foundation for seamless user experiences with clean and structured code.
 React & Next.js: Crafting dynamic and interactive web applications with a focus on performance and user engagement.
 Tailwind CSS: Utilizing utility-first CSS for efficient and responsive designs.
 Git: Version control to collaborate seamlessly with teams and ensure code integrity.
